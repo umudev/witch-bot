@@ -11,6 +11,8 @@ import java.util.*;
 
 public class bot {
 
+
+    test
     public static void main(String[] args) {
         DiscordApi api = new DiscordApiBuilder()
                 .setToken(configs.token)
